@@ -25,5 +25,5 @@
   - name: i want to start webserver in p redhat 
     service:
        name: "{{mywebpackonredhat}}"
-       state: started 
+       state: started
     
